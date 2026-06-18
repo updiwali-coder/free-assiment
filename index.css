@@ -1,0 +1,87 @@
+
+*{box-sizing: border-box;}
+body{
+    background-color: whitesmoke;
+}
+.madaxa{
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: 2px dashed yellow;
+    margin: 10px;
+    margin-right: 88%;
+    
+    
+
+}
+.madaxa a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: medium;
+
+}
+nav{
+    text-align: center;
+}
+.divweyne{
+    display: flex;
+}
+.div1{background-color: white;
+    width: 200px;
+    margin-left: 12%;
+    text-align: center;
+     border-radius: 15px 15px 15px 15px;
+     padding-bottom: 30px;
+    
+
+}
+.div2{background-color: white;
+    width:  200px;
+    margin-left: 15px;
+    text-align: center;
+     border-radius: 15px 15px 15px 15px;
+     padding-bottom: 30px;
+}
+.div3{background-color:white;
+    width: 200px;
+     margin-left: 15px;
+     text-align: center;
+      border-radius: 15px 15px 15px 15px;
+      padding-bottom: 30px;
+}
+.div4{background-color: white;
+    width:  200px;
+     margin-left: 15px;
+     text-align: center;
+      border-radius: 15px 15px 15px 15px;
+      padding-bottom: 30px;
+}
+.sawiro{
+    width: 200px;
+    height: 250pxpx;
+    border-radius: 15px 15px 0 0;
+
+}
+main a{
+    background-color: rgb(140, 64, 64);
+    color:white;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px dashed rgb(210, 210, 88);
+    border-radius: 25px;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: yellow;
+    border: none;
+}
+.madaxa:hover{
+    background-color: yellow;
+    border: none;
+}
